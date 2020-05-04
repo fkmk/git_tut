@@ -1,2 +1,3 @@
 # git_tut
-Learning github
+Learning github and VScode!
+
